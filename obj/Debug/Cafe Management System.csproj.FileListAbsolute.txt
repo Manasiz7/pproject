@@ -1,0 +1,28 @@
+C:\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Cafe Management System\obj\Debug\Cafe Management System.csproj.SuggestedBindingRedirects.cache
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.Dashboard.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.AddItems.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.UpdatesItem.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.RemoveItem.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.LoginPage.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.Registration.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.DashboardOwner.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.Resources.Resource1.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.StaffInfo.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.Sell_Info.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.welcome.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.PlaceOrder1.resources
+C:\Cafe Management System\obj\Debug\Cafe_Management_System.UpdateStaff.resources
+C:\Cafe Management System\bin\Debug\EntityFramework.dll
+C:\Cafe Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Cafe Management System\bin\Debug\EntityFramework.xml
+C:\Cafe Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Cafe Management System\obj\Debug\Cafe Management System.csproj.CopyComplete
